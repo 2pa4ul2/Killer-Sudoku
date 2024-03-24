@@ -1,2 +1,2 @@
 # Killer Sudoku 
- Killer Sudoku Program Using Simulated Annealing Algorithm And Backtracking
+ Killer Sudoku Program Using Backtracking, Backjumping, Simulated Annealing Algorithm
