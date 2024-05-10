@@ -16,7 +16,6 @@ This Python program provides a solver for Killer Sudoku puzzles. Killer Sudoku i
 - [Installation](#installation)
 - [Usage](#usage)
   - [Input Cage Configurations](#input-cage-configurations)
-  - [Choose Solving Algorithm](#choose-solving-algorithm)
   - [Run the Program](#run-the-program)
 - [Examples](#examples)
 - [Dependencies](#dependencies)
@@ -42,8 +41,6 @@ This Python program provides a solver for Killer Sudoku puzzles. Killer Sudoku i
    ```bash
    Enter cages (sum,cell1,cell2,...) separated by semicolon: 7,00,10;6,11,20,21;5,01,02;3,03,13;5,12,22;6,30,31;8,23,32,33
    ```
-## Choose Solving Algorithm
-- Select the solving algorithm by setting the algorithm variable in the code. Options are "BACKTRACKING" or "BACKJUMPING".
 
 ### Run the Program
 - Execute the Python script to solve the puzzle:
